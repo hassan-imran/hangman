@@ -1,5 +1,7 @@
 {
   "name": "hangman",
   "compatibility_date": "2025-11-23",
-  "main": "src/index.ts"
+  "assets": {
+    "directory": "./dist"
+  }
 }
